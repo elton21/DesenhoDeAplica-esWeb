@@ -1,0 +1,18 @@
+.tabela {
+    margin: auto;
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+
+    justify-content: center;
+}
+
+th, td {
+    padding: 5px;
+    text-align: left;    
+}
